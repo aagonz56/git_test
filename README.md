@@ -1,1 +1,1 @@
-This is Andrea's firt git project!
+This is Andrea's first git project!
